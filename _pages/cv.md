@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Informatics, Karlsruhe Institute of Technology, 2024 
+* M.S. in Karlsruhe school of optics and photonics, Karlsruhe Institute of Technology, 2017
+* M.S. in Mechanical Engineering, National Taiwan University, 2011
+* B.S. in Mechanical Engineering, National Taiwan University, 2008
 
 Work experience
 ======
