@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: 
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2026-05-27
+date: 2026-05-28
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1117/12.3098716'
